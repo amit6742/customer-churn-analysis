@@ -1,6 +1,6 @@
    Executive Summary: Customer Churn Analysis
   
-This report provides an in-depth analysis of customer churn using key metrics and visual insights. The analysis highlights critical factors influencing customer churn, including tenure, payment methods, contract types, and demographic patterns. The following is a breakdown of the findings and actionable recommendations:
+This report provides an in-depth analysis of customer churn using key metrics and visual insights. The analysis highlights critical factors influencing customer churn, including tenure, payment methods, contracts. The following is a breakdown of the findings and actionable recommendations:
 
 Key Findings:
 1. Customer Tenure and Churn Rates:
